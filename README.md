@@ -1,13 +1,8 @@
-JavaScript Npm Demo
+"npm-run-all" Demo
 ===================
 
 ```
 npm install
-npm run demo
-```
-
-You will see:
-
-```
-Hello, Npm!
+npm run parallel
+npm run sequence
 ```
